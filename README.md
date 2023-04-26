@@ -1,3 +1,6 @@
+<a href="https://rishavchanda.io">
+  <img src="https://semidotinfotech.com/web/images/FullStackDevelopmentCompany.jpg" alt="MasterHead" width="100%" >
+</a>
 <h1 align="center">Hi 👋, I'm Adna</h1>
 - 🔭 Working on a mobile application planner for my bachelor's thesis.<br>
 - 🌱 Currently learning **React Native**. <br>
