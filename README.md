@@ -2,10 +2,11 @@
   <img src="https://semidotinfotech.com/web/images/FullStackDevelopmentCompany.jpg" alt="MasterHead" width="100%" >
 </a>
 <h1 align="center">Hi 👋, I'm Adna</h1>
-- 🔭 Working on a mobile application planner for my bachelor's thesis.<br>
-- 🌱 Currently learning **React Native**. <br>
-- 👯 Looking to collaborate on open-source mobile/web projects. <br>
-- 🤔 Need help improving coding skills and gaining experience.
+
+- 🌱 I'm currently learning **Spring Boot** and **Angular** to build web applications.
+- 👯 I'm passionate about open source and looking to collaborate on mobile and web projects that can make a positive impact.
+- 🤔 I'm always eager to improve my coding skills and gain more experience in software development.
+- 💼 I'm open to new job opportunities in the field of web development and software engineering.
 
 
 <h3 align="left">Connect with me:</h3>
