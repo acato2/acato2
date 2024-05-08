@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://semidotinfotech.com/web/images/FullStackDevelopmentCompany.jpg" alt="MasterHead" width="100%" >
+  <img src="https://www.valewood.org/images/devops-coding_hu50d8c0d29e111cf764022a72c06116e8_307038_1920x800_crop_q75_h2_box_smart1.webp" alt="MasterHead" width="100%" >
 </a>
 <h1 align="center">Hi 👋, I'm Adna</h1>
 
